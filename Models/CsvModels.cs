@@ -11,6 +11,7 @@ public class CsvModels {
         public int HB { get; set; }
         public int SqFt { get; set; }
         public int Sold_Price { get; set; }
+        
         public DateTime Sold_Date { get; set; }
     }
     
